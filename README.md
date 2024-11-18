@@ -4,7 +4,7 @@
 
 Developed an SQL project that centers on analysing the results of India’s 2024 General Elections. This project included thorough examinations of electoral data to reveal insights and trends across different states. Also visualized the data in Power BI and created interactive dashboard to get deep insights from the data. For data visualization in Power BI, measures were created and cards, slicers, tables, and maps were employed.
 
-## Tools Used: Microsoft Excel, MySQL, Power BI
+Tools Used: Microsoft Excel, MySQL, Power BI
 
 ## Problem Statement in My SQL
 
