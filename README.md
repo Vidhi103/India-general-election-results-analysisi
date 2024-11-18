@@ -41,7 +41,7 @@ Tools Used: Microsoft Excel, MySQL, Power BI
       Ques 16.Which parties won the most seats in s State, and how many seats did each party win?
 
 
-      ## Problem Statement in Power BI
+ ## Problem Statement in Power BI
 
        Ques 1.Calculate to number of seats in Lok Sabha Elections 2024.
 
